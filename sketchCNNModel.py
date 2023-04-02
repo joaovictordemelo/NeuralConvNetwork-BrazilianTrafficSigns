@@ -84,7 +84,7 @@ from sklearn.model_selection import train_test_split
 images = []
 labels = []
 for key in class_image_map:
-    for i in range(1, 67):
+    for i in range(1, 66):
         image_path = os.path.join("/content/sample_data/testImages", f"{i}.png")
 
         if class_image_map[key] == f"{i}.png":
