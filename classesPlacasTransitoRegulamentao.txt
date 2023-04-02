@@ -1,0 +1,68 @@
+Classes
+
+Alfandega R-21
+Altura maxima permitida R-15
+Ciclista transite a direita R-35b
+Ciclista transite a esquerda R-35a
+Ciclistas a esquerda pedestres a direita R-36a
+Circulacao exclusiva de bicicletas R-34
+Circulacao exclusiva de caminhoes R-39
+Circulacao exclusiva de onibus R-32
+Comprimento maximo permitido R-18
+Conserve se a direita R-23
+De preferencia R-2
+Duplo sentido de circulacao R-28
+Passagem obrigatoria R-24b
+Pedestre ande pela direita R-31
+Pedestre ande pela esquerda R-30
+Pedestres a esquerda ciclistas a direita R-36b
+Peso bruto total maximo permitido R-14
+Peso maximo permitido por eixo R-17
+Proibido acionar buzina ou sinal sonoro R-20
+Proibido estacionar R-6a
+Proibido mudar de faixa ou pista de transito da direita para esquerda R-8b
+Proibido mudar de faixa ou pista de transito da esquerda para direita R-8a
+Proibido parar e estacionar R-6c
+Proibido retornar a direita R-5b
+Proibido retornar a esquerda R-5a
+Proibido transito de bicicletas R-12
+Proibido transito de caminhoes R-9
+Proibido transito de motocicletas motonetas e ciclomotores R-37
+Proibido transito de onibus R-38
+Proibido transito de pedestres R-29
+Proibido transito de tratores e maquinas de obras R-13
+Proibido transito de veiculos auto motores R-10
+Proibido transito de veiculos de tracao animal R-11
+Proibido ultrapassar R-7
+Proibido virar a direita R-4b
+Proibido virar a esquerda R-4a
+Regulamentacao Inform 1
+Regulamentacao Inform 10
+Regulamentacao Inform 11
+Regulamentacao Inform 12
+Regulamentacao Inform 13
+Regulamentacao Inform 14
+Regulamentacao Inform 15
+Regulamentacao Inform 2
+Regulamentacao Inform 3
+Regulamentacao Inform 4
+Regulamentacao Inform 5
+Regulamentacao Inform 6
+Regulamentacao Inform 7
+Regulamentacao Inform 8
+Regulamentacao Inform 9
+Sentido circular na rota R-33
+Sentido de circulacao da via ou pista R-24a
+Sentido proibido R-3
+Siga em frente R-26
+Siga em frente ou a direita R-25d
+Siga em frente ou a esquerda R-25c
+Transito proibido a carros de mao R-40
+Uso obrigatorio de corrente R-22
+Velocidade maxima permitida R-19
+Vire a direita R-25b
+Vire a esquerda R-25a
+Estacionamento regulamentado R-6b
+Largura maxima permitida R-16
+Onibus caminhoes e veiculos de grande porte mantenham se a direita R-27
+Parada obrigatoria R1
